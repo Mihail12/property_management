@@ -1,6 +1,7 @@
 
 
 class SyncCsvService(object):
+    model = Service2
     """
     There is a model called Service2
     where all data from csv files saved which were taken after parse the files

@@ -1,6 +1,7 @@
 
 
 class SyncApiService(object):
+    model = Service1
     """
     There is a model called Service1
     where all data saved which were taken from the api
